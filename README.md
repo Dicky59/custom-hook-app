@@ -1,1 +1,1 @@
-Custom hook done.
+Training cuustom hooks.
